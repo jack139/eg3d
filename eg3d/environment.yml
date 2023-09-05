@@ -33,5 +33,5 @@ dependencies:
     - imageio-ffmpeg==0.4.3
     - pyspng
     - psutil
-    - mrcfile
+    - mrcfile==1.4.3
     - tensorboard
